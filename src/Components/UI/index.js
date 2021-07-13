@@ -39,7 +39,7 @@ export const Detalhe = styled.span`
   font-size: 24px;
 `;
 
-export const Saldo = styled.span`
+export const Saldo = styled.div`
   font-weight: 700;
   font-size: 32px;
 `;
